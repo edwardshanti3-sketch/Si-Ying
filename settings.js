@@ -39,11 +39,11 @@ global.icono = "https://files.catbox.moe/tuz2gl.jpg"
 global.catalogo = fs.readFileSync('./lib/catalogo.jpg')
 
 
-global.group = "https://chat.whatsapp.com/LTdquaIwk9sEz66D1u0kNh"
+global.group = "https://chat.whatsapp.com/DkFQCbxcykkBMXjqr5bq3M"
 global.community = "https://chat.whatsapp.com/HbnT0v3LLpwEX4LH0yis3j"
 global.channel = "https://whatsapp.com/channel/0029Vb6ygDELo4hpelb24M01"
-global.github = "https://github.com"
-global.gmail = "minexdt@gmail.com"
+global.github = "https://github.com/Dionebi-sama/Si-Ying.git"
+global.gmail = "mka98153@gmail.com"
 global.ch = {
 ch1: "120363420941524030@newsletter"
 }
