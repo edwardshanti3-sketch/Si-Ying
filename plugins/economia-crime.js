@@ -16,10 +16,10 @@ user.lastcrime = ahora + cooldown
 const evento = pickRandom(crimen)
 let cantidad
 if (evento.tipo === 'victoria') {
-cantidad = Math.floor(Math.random() * 1501) + 6000
+cantidad = Math.floor(Math.random() * 10000) + 20000
 user.coin += cantidad
 } else {
-cantidad = Math.floor(Math.random() * 1501) + 4000
+cantidad = Math.floor(Math.random() * 10000) + 20000
 user.coin -= cantidad
 if (user.coin < 0) user.coin = 0
 }
